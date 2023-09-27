@@ -4,6 +4,9 @@
 
 The PickingListsSalesOrdersBackendResourceRelationship module provides the relationship between picking lists and sales orders resources.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/sales-orders-backend-api](https://github.com/spryker/sales-orders-backend-api) instead.
+
 ## Installation
 
 ```
