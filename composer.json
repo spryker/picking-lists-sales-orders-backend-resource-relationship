@@ -49,5 +49,6 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
-    }
+    },
+    "abandoned": "spryker/sales-orders-backend-api"
 }
